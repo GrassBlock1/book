@@ -1,0 +1,9 @@
+[book]
+authors = ["grassblock"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "草师傅的折腾备忘"
+
+[output.html]
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
