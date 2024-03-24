@@ -12,8 +12,10 @@
 
 # 版权
 
-若无特别说明，本书内容以 CC-BY-NC-SA 4.0 国际授权。
+若无特别说明，本书内容均以 CC-BY-NC-SA 4.0 国际授权。
 
 特别感谢：
 
 [mdbook | 小霖家的混江龙](https://lijunlin2022.github.io/docs/tool/mdbook) ：此 mdbook 的一些配置来源于此。
+
+[catppuccin/mdBook: 🎊 Soothing pastel theme for mdBook](https://github.com/catppuccin/mdBook)：此mdbook使用的主题。

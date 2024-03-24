@@ -6,4 +6,16 @@ src = "src"
 title = "草师傅的折腾备忘"
 
 [output.html]
+default-theme = "latte"
+preferred-dark-theme = "mocha"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
 additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
+additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-admonish.css"]
+no-section-label = false
+git-repository-url = "https://github.com/GrassBlock1/book"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/GrassBlock1/book/edit/master/{path}"
+site-url = "https://kb.imgb.space"
+cname = "myproject.rs"

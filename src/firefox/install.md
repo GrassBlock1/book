@@ -10,7 +10,7 @@
 
 Windows 用户：
 
-1. 打开 https://www.mozilla.org/zh-CN/firefox/new/ （要找到这个网址，使用bing搜索然后找到标题为 Mozilla 的结果即可）
+1. 打开 [https://www.mozilla.org/zh-CN/firefox/new/](https://www.mozilla.org/zh-CN/firefox/new/) （要找到这个网址，使用bing搜索然后找到标题为 Mozilla 的结果即可）
 2. 点击`下载Firefox`
 3.  等待下载然后安装即可
 
@@ -28,7 +28,7 @@ Mac 用户：
 
 ## 在 Mozilla FTP 处下载
 
-1. 打开 https://ftp.mozilla.org/pub/firefox/releases/
+1. 打开 [https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
 2. 找到目前最新的版本号（2024/03/23时最新版本为124.0）并点击打开（建议善用`在网页中查找`）
 3. Windows  用户选择 `win64`，mac用户选择 `mac`
 4. 滑到底部，找到 `zh-CN`
